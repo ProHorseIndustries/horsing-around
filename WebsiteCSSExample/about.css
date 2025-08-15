@@ -1,9 +1,0 @@
-.about {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    width: 50%;
-    padding-top: 100px;
-    margin: auto;
-    gap: 50px;
-}
